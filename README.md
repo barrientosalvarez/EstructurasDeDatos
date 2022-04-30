@@ -23,6 +23,19 @@ Los diseños de las diversas estructuras, sus plantillas y las clases para prueb
 
 del Doctor Canek Peláez Valdés.
 
+## Listado de prácticas.
+* Práctica 1: Listas.
+* Práctica 2: Pilas, colas, ordenamientos y búsquedas.
+* Práctica 3: Árboles binarios, binarios completos y binarios ordenados.
+* Pŕactica 4: Árboles rojinegros.
+* Práctica 5: Árboles AVL.
+* Práctica 6: Gráficas.
+* Práctica 7: Montículos mínimos.
+* Práctica 8: Trayectoria mínima y algoritmo de Dijkstra.
+* Práctica 9: Funcines de dispersión.
+* Práctica 10: Diccionarios.
+* Práctica 11: Conjuntos.
+
 ## Datos personales y de contacto.
 Las implementaciones de estas prácticas fueron realizadas por Jorge Miguel Aaron Barrientos Alvarez.
 
